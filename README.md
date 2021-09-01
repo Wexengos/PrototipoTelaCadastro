@@ -1,2 +1,3 @@
 # PrototipoTelaCadastro
-Protótipo em React Native de uma tela de cadastro, a ser utilizada pelo app de Mapeamento da ProEX da UFJF.
+
+Protótipo em React Native de uma tela de cadastro, a ser utilizada pelo app de Mapeamento da ProEX da UFJF; que utilizará o Material Design.
